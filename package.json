@@ -1,0 +1,25 @@
+{
+  "name": "asyncCompose",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "example": "example"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JinYuSha0/asyncCompose.git"
+  },
+  "author": "soul",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JinYuSha0/asyncCompose/issues"
+  },
+  "homepage": "https://github.com/JinYuSha0/asyncCompose#readme",
+  "dependencies": {
+    "is-async-function": "^1.2.3"
+  }
+}
